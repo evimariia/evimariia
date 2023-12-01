@@ -3,7 +3,7 @@
 
 ## 📚 About Me
 
-- 🎓 Studying Computer Engineering at Centro Universitário SENAI/CIMATEC.
+- 🎓 Studying Computer Engineering at [Centro Universitário SENAI/CIMATEC](https://www.senaicimatec.com.br/).
 - 🖥️ Scientific initiation scholarship from [CNPq](https://www.gov.br/cnpq/pt-br) - [See more](http://lattes.cnpq.br/3949084844402238)
 - 🗣️ Member of a gamified system research project to assist in the rehabilitation of aphasic patients
 - 🦆 Member of [Clube de Programação SENAI CIMATEC](https://www.instagram.com/clubedeprogramacaocimatec/)
