@@ -3,9 +3,21 @@
 
 ## 📚 About Me
 
-- 🎓 Studying Computer Engineering at SENAI/CIMATEC.
-- 🖥️ Scientific initiation on a gamified system to assist the rehabilitation of aphasic patients
- 
+- 🎓 Studying Computer Engineering at Centro Universitário SENAI/CIMATEC.
+- 🖥️ Scientific initiation scholarship from [CNPq](https://www.gov.br/cnpq/pt-br) - [See more](http://lattes.cnpq.br/3949084844402238)
+- 🗣️ Member of a gamified system research project to assist in the rehabilitation of aphasic patients
+- 🦆 Member of [Clube de Programação SENAI CIMATEC](https://www.instagram.com/clubedeprogramacaocimatec/)
+- 🐍 Data Enthusiast
+
+<!--
+## Featured projects
+
+## Contributions to other projects
+-->
+
+## Contact
+
+   
 </h1>
 <div>
   <a href="https://github.com/evimariia">
