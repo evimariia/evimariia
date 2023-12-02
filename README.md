@@ -29,6 +29,7 @@ evilam.scarneiro@gmail.com
 <a href="https://www.instagram.com/evimariia/"><img align="left" alt="Instagram" width="35px" src="https://user-images.githubusercontent.com/80331468/270190543-eafb32ab-7a4e-43fd-910a-188769676a65.png" /></a>
 <a href="www.linkedin.com/in/evimariia"><img align="left" alt="LinkedIn" width="35px" src="https://user-images.githubusercontent.com/80331468/270190539-60d7da88-5151-4841-a44b-6fad612242d8.png" /></a>
 
+---
 
    
 </h1>
