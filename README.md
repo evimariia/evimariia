@@ -27,7 +27,7 @@ Hi, I'm glad you're here! I'm Évila Carneiro, but you can call me Évi. I'm cur
 ## Contact
 
 evilam.scarneiro@gmail.com
-- [LinkedIn](www.linkedin.com/in/evimariia)
+- [LinkedIn](https://www.linkedin.com/in/evimariia/)
 - [Check my site](https://evimariia.my.canva.site/)
 
   
